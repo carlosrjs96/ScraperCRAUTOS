@@ -1,0 +1,3736 @@
+{
+    "results": [
+        {
+            "Auto": {
+                "Anno": "1994",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 262000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "1,800 cc",
+                "Precio": 1500000.0,
+                "Tipo": "BMW 318 IS",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "6018-8969",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "6018-8969",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "ANDRES MORA ARAYA"
+                }
+            },
+            "FechaPublicacion": "08/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=26674062&BMW.318%20IS%20.1994"
+        },
+        {
+            "Auto": {
+                "Anno": "1992",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 53591,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "2,500 cc",
+                "Precio": 1700000.0,
+                "Tipo": "BMW 325I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8710-7698    8395-2246",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8710-7698",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "DIANA CHACON"
+                }
+            },
+            "FechaPublicacion": "19/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=43870183&BMW.325I%20.1992"
+        },
+        {
+            "Auto": {
+                "Anno": "1992",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 1000,
+                "Localizacion": "Guanacaste",
+                "Marca": "BMW",
+                "Motor": "1,800 cc",
+                "Precio": 1800000.0,
+                "Tipo": "BMW 318I",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8895-0462",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8895-0462",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "PABLO LIZANO"
+                }
+            },
+            "FechaPublicacion": "27/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=46410666&BMW.318I.1992"
+        },
+        {
+            "Auto": {
+                "Anno": "1986",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": null,
+                "Localizacion": "Heredia",
+                "Marca": "BMW",
+                "Motor": "2,300 cc",
+                "Precio": 1900000.0,
+                "Tipo": "BMW 323I",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8977-0965",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8977-0965",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "AHMAD ALSUBANI"
+                }
+            },
+            "FechaPublicacion": "07/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=70391913&BMW.323I.1986"
+        },
+        {
+            "Auto": {
+                "Anno": "1995",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 248000,
+                "Localizacion": "Heredia",
+                "Marca": "BMW",
+                "Motor": "2,500 cc",
+                "Precio": 1900000.0,
+                "Tipo": "BMW 325I",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8649-3993",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8649-3993",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "JORGE CAMPOS"
+                }
+            },
+            "FechaPublicacion": "11/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=47612011&BMW.325I.1995"
+        },
+        {
+            "Auto": {
+                "Anno": "1984",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 200000,
+                "Localizacion": "Heredia",
+                "Marca": "BMW",
+                "Motor": "1,800 cc",
+                "Precio": 1950000.0,
+                "Tipo": "BMW 316I",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8747-8229",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8747-8229",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "STEVEN VASQUEZ"
+                }
+            },
+            "FechaPublicacion": "05/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=95736782&BMW.316I.1984"
+        },
+        {
+            "Auto": {
+                "Anno": "1995",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 260000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "1,800 cc",
+                "Precio": 2000000.0,
+                "Tipo": "BMW 318I",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8308-9649    8329-9301",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8308-9649",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "JUAN CASTRO"
+                }
+            },
+            "FechaPublicacion": "07/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=35429480&BMW.318I.1995"
+        },
+        {
+            "Auto": {
+                "Anno": "1992",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 235000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "1,800 cc",
+                "Precio": 2000000.0,
+                "Tipo": "BMW 318I",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8553-3850",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8553-3850",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "DEEREK BENAVIDES"
+                }
+            },
+            "FechaPublicacion": "20/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=13666679&BMW.318I.1992"
+        },
+        {
+            "Auto": {
+                "Anno": "1999",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 245700,
+                "Localizacion": "Alajuela",
+                "Marca": "BMW",
+                "Motor": "2,500 cc",
+                "Precio": 2150000.0,
+                "Tipo": "BMW 323I",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8815-5263",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8815-5263",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "AUTOSFOX"
+                }
+            },
+            "FechaPublicacion": "12/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=7271740&BMW.323I.1999"
+        },
+        {
+            "Auto": {
+                "Anno": "1994",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": null,
+                "Localizacion": "Heredia",
+                "Marca": "BMW",
+                "Motor": "1,800 cc",
+                "Precio": 2500000.0,
+                "Tipo": "BMW 318I",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "7116-0282",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "7116-0282",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "KEVIN HINES"
+                }
+            },
+            "FechaPublicacion": "21/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=82425675&BMW.318I.1994"
+        },
+        {
+            "Auto": {
+                "Anno": "1993",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 224000,
+                "Localizacion": "Cartago",
+                "Marca": "BMW",
+                "Motor": "2,500 cc",
+                "Precio": 2550000.0,
+                "Tipo": "BMW 525I",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8919-7535",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8919-7535",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "MARCOS QUESADA"
+                }
+            },
+            "FechaPublicacion": "30/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=33706042&BMW.525I.1993"
+        },
+        {
+            "Auto": {
+                "Anno": "1995",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 3,
+                "Localizacion": "Heredia",
+                "Marca": "BMW",
+                "Motor": "2,500 cc",
+                "Precio": 2650000.0,
+                "Tipo": "BMW 325I",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "6195-0231",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "6195-0231",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "EDUARDO FALLAS"
+                }
+            },
+            "FechaPublicacion": "17/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=88184946&BMW.325I.1995"
+        },
+        {
+            "Auto": {
+                "Anno": "1999",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 245000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "2,495 cc",
+                "Precio": 2695000.0,
+                "Tipo": "BMW 323I",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8432-3223",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8366-4988",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "GRE GORDON"
+                }
+            },
+            "FechaPublicacion": "26/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=31208299&BMW.323I.1999"
+        },
+        {
+            "Auto": {
+                "Anno": "1995",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 260000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "2,500 cc",
+                "Precio": 2750000.0,
+                "Tipo": "BMW 525",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8935-6767",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8935-6767",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "MAURICIO CHAHUD DURAND"
+                }
+            },
+            "FechaPublicacion": "01/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=95646392&BMW.525.1995"
+        },
+        {
+            "Auto": {
+                "Anno": "1998",
+                "Asientos": null,
+                "Chasis": "2",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 239400,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "1,800 cc",
+                "Precio": 2800000.0,
+                "Tipo": "BMW 318 TI",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8407-8164    8407-8164",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8407-8164",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "ANDRÉS ALFARO"
+                }
+            },
+            "FechaPublicacion": "28/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=69155974&BMW.318%20TI.1998"
+        },
+        {
+            "Auto": {
+                "Anno": "2000",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 200000,
+                "Localizacion": "Cartago",
+                "Marca": "BMW",
+                "Motor": "1,900 cc",
+                "Precio": 3000000.0,
+                "Tipo": "BMW 318I E46",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "6096-2428",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "6096-2428",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "JOSHUA SEGURA"
+                }
+            },
+            "FechaPublicacion": "13/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=86684365&BMW.318I%20E46.2000"
+        },
+        {
+            "Auto": {
+                "Anno": "1992",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 154000,
+                "Localizacion": "Cartago",
+                "Marca": "BMW",
+                "Motor": "2,500 cc",
+                "Precio": 3150000.0,
+                "Tipo": "BMW 325I E36",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "6096-2428",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "6096-2428",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "JOSHUA SEGURA"
+                }
+            },
+            "FechaPublicacion": "10/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=40121060&BMW.325I%20E36.1992"
+        },
+        {
+            "Auto": {
+                "Anno": "2000",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 152000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "1,800 cc",
+                "Precio": 3300000.0,
+                "Tipo": "BMW 318I",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8703-4794",
+                            "Tipo": "Teléfono"
+                        }
+                    ],
+                    "Nombre": "MAURICIO ALVARADO"
+                }
+            },
+            "FechaPublicacion": "07/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=86963108&BMW.318I.2000"
+        },
+        {
+            "Auto": {
+                "Anno": "1999",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 221000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "2,800 cc",
+                "Precio": 3350000.0,
+                "Tipo": "BMW 328I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8554-7770",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8554-7770",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "KEVIN ZUÑIGA"
+                }
+            },
+            "FechaPublicacion": "26/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=51764307&BMW.328I.1999"
+        },
+        {
+            "Auto": {
+                "Anno": "2002",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 155000,
+                "Localizacion": "Cartago",
+                "Marca": "BMW",
+                "Motor": "1,800 cc",
+                "Precio": 3475000.0,
+                "Tipo": "BMW 318",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8842-5245",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8842-5245",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "CMOTORCR S.A."
+                }
+            },
+            "FechaPublicacion": "13/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=5308096&BMW.318.2002"
+        },
+        {
+            "Auto": {
+                "Anno": "2001",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 208400,
+                "Localizacion": "Cartago",
+                "Marca": "BMW",
+                "Motor": "2,500 cc",
+                "Precio": 3500000.0,
+                "Tipo": "BMW 325I",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "6208-5672",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "6208-5672",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "RANDALL CHAVES QUIROS"
+                }
+            },
+            "FechaPublicacion": "05/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=38315695&BMW.325I.2001"
+        },
+        {
+            "Auto": {
+                "Anno": "1998",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": null,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "2,494 cc",
+                "Precio": 3500000.0,
+                "Tipo": "BMW 323I",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8387-3775    2203-6434",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8387-3775",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "GEOVANNY NAVARRO UMAÑA"
+                }
+            },
+            "FechaPublicacion": "16/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=81811869&BMW.323I.1998"
+        },
+        {
+            "Auto": {
+                "Anno": "1999",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": null,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "1,900 cc",
+                "Precio": 3500000.0,
+                "Tipo": "BMW 318I",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8729-6255",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8729-6255",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "ANDRES QUIROS"
+                }
+            },
+            "FechaPublicacion": "30/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=91728734&BMW.318I.1999"
+        },
+        {
+            "Auto": {
+                "Anno": "1999",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 235000,
+                "Localizacion": "Alajuela",
+                "Marca": "BMW",
+                "Motor": "2,500 cc",
+                "Precio": 3500000.0,
+                "Tipo": "BMW 323I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "7251-0074    7015-8419    2441-3543",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "7251-0074",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "ISAAC ARIAS"
+                }
+            },
+            "FechaPublicacion": "06/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=99406643&BMW.323I.1999"
+        },
+        {
+            "Auto": {
+                "Anno": "2004",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 180000,
+                "Localizacion": "Alajuela",
+                "Marca": "BMW",
+                "Motor": "2,171 cc",
+                "Precio": 3700000.0,
+                "Tipo": "BMW 320I",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8395-9279",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8395-9279",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "JUAN LANZA"
+                }
+            },
+            "FechaPublicacion": "20/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=51917994&BMW.320I.2004"
+        },
+        {
+            "Auto": {
+                "Anno": "2003",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 158412,
+                "Localizacion": "Cartago",
+                "Marca": "BMW",
+                "Motor": "2,500 cc",
+                "Precio": 3800000.0,
+                "Tipo": "BMW 525I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8662-7158",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8662-7158",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "ALVARO VEGA"
+                }
+            },
+            "FechaPublicacion": "08/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=15967264&BMW.525I.2003"
+        },
+        {
+            "Auto": {
+                "Anno": "2003",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 118000,
+                "Localizacion": "Alajuela",
+                "Marca": "BMW",
+                "Motor": "2,500 cc",
+                "Precio": 3800000.0,
+                "Tipo": "BMW 525I",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8625-3831",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8625-3831",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "JORGE SALAZAR"
+                }
+            },
+            "FechaPublicacion": "04/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=14325897&BMW.525I.2003"
+        },
+        {
+            "Auto": {
+                "Anno": "2000",
+                "Asientos": null,
+                "Chasis": "2",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 150000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "2,500 cc",
+                "Precio": 3900000.0,
+                "Tipo": "BMW 323 CI",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8711-0768",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8711-0768",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "DIEDERICK CANTILLO"
+                }
+            },
+            "FechaPublicacion": "27/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=51804283&BMW.323%20CI.2000"
+        },
+        {
+            "Auto": {
+                "Anno": "2003",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 147000,
+                "Localizacion": "Alajuela",
+                "Marca": "BMW",
+                "Motor": "2,000 cc",
+                "Precio": 4650000.0,
+                "Tipo": "BMW 318I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "6008-9067    6128-8636",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "6008-9067",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "MAURICIO LEDEZMA"
+                }
+            },
+            "FechaPublicacion": "12/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=95000155&BMW.318I.2003"
+        },
+        {
+            "Auto": {
+                "Anno": "2003",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 134000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "3,000 cc",
+                "Precio": 4800000.0,
+                "Tipo": "BMW 330IA",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "7111-4951    8845-0336",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "7111-4951",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "MAYKOL CASTRO"
+                }
+            },
+            "FechaPublicacion": "07/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=58647382&BMW.330IA.2003"
+        },
+        {
+            "Auto": {
+                "Anno": "2005",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 194000,
+                "Localizacion": "Puntarenas",
+                "Marca": "BMW",
+                "Motor": "3,000 cc",
+                "Precio": 4800000.0,
+                "Tipo": "BMW 330XI",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8972-2695    8579-2703",
+                            "Tipo": "Teléfono"
+                        }
+                    ],
+                    "Nombre": "KARLA ALVARADO"
+                }
+            },
+            "FechaPublicacion": "12/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=88340924&BMW.330XI.2005"
+        },
+        {
+            "Auto": {
+                "Anno": "2004",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 320000,
+                "Localizacion": "Guanacaste",
+                "Marca": "BMW",
+                "Motor": "2,500 cc",
+                "Precio": 4800000.0,
+                "Tipo": "BMW 325I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8311-7335    8501-8484",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8501-8484",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "EMMANUEL PERALTA ATÁN"
+                }
+            },
+            "FechaPublicacion": "13/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=48321048&BMW.325I.2004"
+        },
+        {
+            "Auto": {
+                "Anno": "2002",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 198000,
+                "Localizacion": "Guanacaste",
+                "Marca": "BMW",
+                "Motor": "3,000 cc",
+                "Precio": 5000000.0,
+                "Tipo": "BMW 330I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8309-8312",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8309-8312",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "FABIAN"
+                }
+            },
+            "FechaPublicacion": "23/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=77483638&BMW.330I.2002"
+        },
+        {
+            "Auto": {
+                "Anno": "2003",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 104000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "3,000 cc",
+                "Precio": 5100000.0,
+                "Tipo": "BMW 330I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8979-2134",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8979-2134",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "HANZETH CORDERO"
+                }
+            },
+            "FechaPublicacion": "13/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=52373091&BMW.330I.2003"
+        },
+        {
+            "Auto": {
+                "Anno": "2004",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 192057,
+                "Localizacion": "Cartago",
+                "Marca": "BMW",
+                "Motor": "2,200 cc",
+                "Precio": 5350000.0,
+                "Tipo": "BMW 320IA",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "2575-0287    8335-3000",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8335-3000",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "KAROL CHAVES"
+                }
+            },
+            "FechaPublicacion": "11/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=89926863&BMW.320IA.2004"
+        },
+        {
+            "Auto": {
+                "Anno": "2002",
+                "Asientos": null,
+                "Chasis": "2",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 136309,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "2,500 cc",
+                "Precio": 5367512.0,
+                "Tipo": "BMW 325 CI",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "2232-5841    2232-2247    8683-2890",
+                            "Tipo": "Teléfono"
+                        }
+                    ],
+                    "Nombre": "AUTO ACCIÓN S.A."
+                }
+            },
+            "FechaPublicacion": "01/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=6382629&BMW.325%20CI.2002"
+        },
+        {
+            "Auto": {
+                "Anno": "2006",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 190000,
+                "Localizacion": "Limón",
+                "Marca": "BMW",
+                "Motor": "3,000 cc",
+                "Precio": 5400000.0,
+                "Tipo": "BMW 325I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8940-1629",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8940-1629",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "ALBERTO SÁNCHEZ SANDÍ"
+                }
+            },
+            "FechaPublicacion": "21/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=93203315&BMW.325I.2006"
+        },
+        {
+            "Auto": {
+                "Anno": "2008",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 140000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "2,000 cc",
+                "Precio": 5495000.0,
+                "Tipo": "BMW 318I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8308-2130    8824-6428",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8308-2130",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "ALBERTO LOPEZ"
+                }
+            },
+            "FechaPublicacion": "27/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=29629654&BMW.318I.2008"
+        },
+        {
+            "Auto": {
+                "Anno": "2001",
+                "Asientos": null,
+                "Chasis": "2",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 80000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "2,500 cc",
+                "Precio": 5500000.0,
+                "Tipo": "BMW 325CI",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "2245-1616    8816-1613",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8423-3887",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "EDUARDO ALBAN"
+                }
+            },
+            "FechaPublicacion": "23/03/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=54493213&BMW.325CI.2001"
+        },
+        {
+            "Auto": {
+                "Anno": "2005",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 147000,
+                "Localizacion": "Puntarenas",
+                "Marca": "BMW",
+                "Motor": "2,500 cc",
+                "Precio": 5500000.0,
+                "Tipo": "BMW 525I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8821-7171",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8821-7171",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "HUBERT CAMPOS"
+                }
+            },
+            "FechaPublicacion": "19/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=29990516&BMW.525I.2005"
+        },
+        {
+            "Auto": {
+                "Anno": "2008",
+                "Asientos": null,
+                "Chasis": "5",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 170000,
+                "Localizacion": "Limón",
+                "Marca": "BMW",
+                "Motor": "2,000 cc",
+                "Precio": 5600000.0,
+                "Tipo": "BMW 318I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8349-9744",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8349-9744",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "WALTER MONTERO ASTÚA"
+                }
+            },
+            "FechaPublicacion": "28/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=45482564&BMW.318I.2008"
+        },
+        {
+            "Auto": {
+                "Anno": "2002",
+                "Asientos": null,
+                "Chasis": "2",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 130000,
+                "Localizacion": "Heredia",
+                "Marca": "BMW",
+                "Motor": "3,000 cc",
+                "Precio": 5800000.0,
+                "Tipo": "BMW 330CI",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8383-3452    2261-9927",
+                            "Tipo": "Teléfono"
+                        }
+                    ],
+                    "Nombre": "ALVARO SALAZAR"
+                }
+            },
+            "FechaPublicacion": "23/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=37984803&BMW.330CI.2002"
+        },
+        {
+            "Auto": {
+                "Anno": "2008",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 149000,
+                "Localizacion": "Guanacaste",
+                "Marca": "BMW",
+                "Motor": "2,000 cc",
+                "Precio": 5900000.0,
+                "Tipo": "BMW 318I",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "6172-9332",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "6172-9332",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "ALVARO ABARCA ANGULO"
+                }
+            },
+            "FechaPublicacion": "27/01/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=38085047&BMW.318I.2008"
+        },
+        {
+            "Auto": {
+                "Anno": "2006",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 110000,
+                "Localizacion": "Limón",
+                "Marca": "BMW",
+                "Motor": "3,000 cc",
+                "Precio": 6000000.0,
+                "Tipo": "BMW 325I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8332-7542",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8332-7542",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "JOSÉ DAVID FONSECA"
+                }
+            },
+            "FechaPublicacion": "18/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=40246716&BMW.325I.2006"
+        },
+        {
+            "Auto": {
+                "Anno": "2006",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": null,
+                "Localizacion": "Alajuela",
+                "Marca": "BMW",
+                "Motor": "3,000 cc",
+                "Precio": 6050000.0,
+                "Tipo": "BMW 325I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8350-6263",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8350-6263",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "DAVID DRACKETT"
+                }
+            },
+            "FechaPublicacion": "04/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=34988695&BMW.325I.2006"
+        },
+        {
+            "Auto": {
+                "Anno": "2008",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 190000,
+                "Localizacion": "Heredia",
+                "Marca": "BMW",
+                "Motor": "2,000 cc",
+                "Precio": 6300000.0,
+                "Tipo": "BMW 318I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8348-2019",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8348-2019",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "ALVARO CASTELLON"
+                }
+            },
+            "FechaPublicacion": "29/01/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=37000661&BMW.318I.2008"
+        },
+        {
+            "Auto": {
+                "Anno": "2006",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 158000,
+                "Localizacion": "Heredia",
+                "Marca": "BMW",
+                "Motor": "3,000 cc",
+                "Precio": 6350000.0,
+                "Tipo": "BMW 325",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8490-2081",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8490-2081",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "FREDY CALVO"
+                }
+            },
+            "FechaPublicacion": "12/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=36010135&BMW.325.2006"
+        },
+        {
+            "Auto": {
+                "Anno": "2006",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 147000,
+                "Localizacion": "Alajuela",
+                "Marca": "BMW",
+                "Motor": "3,000 cc",
+                "Precio": 6400000.0,
+                "Tipo": "BMW 325I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8320-1846",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8320-1846",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "ALEJANDRO CORRALES"
+                }
+            },
+            "FechaPublicacion": "15/03/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=16151837&BMW.325I.2006"
+        },
+        {
+            "Auto": {
+                "Anno": "1998",
+                "Asientos": null,
+                "Chasis": "2",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 105000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "2,000 cc",
+                "Precio": 6500000.0,
+                "Tipo": "BMW Z3",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "6112-7800",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "6112-7800",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "ANTHONY CORDERO"
+                }
+            },
+            "FechaPublicacion": "26/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=26810540&BMW.Z3.1998"
+        },
+        {
+            "Auto": {
+                "Anno": "2006",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 166000,
+                "Localizacion": "Heredia",
+                "Marca": "BMW",
+                "Motor": "2,000 cc",
+                "Precio": 6575000.0,
+                "Tipo": "BMW 320I",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "2244-4343    2249-9887    8775-1583",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "7011-6179",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "AUTOS SANTO DOMINGO"
+                }
+            },
+            "FechaPublicacion": "22/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=6661209&BMW.320I.2006"
+        },
+        {
+            "Auto": {
+                "Anno": "2012",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 117000,
+                "Localizacion": "Heredia",
+                "Marca": "BMW",
+                "Motor": "2,000 cc",
+                "Precio": 7000000.0,
+                "Tipo": "BMW 320I",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8446-9637",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8446-9637",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "BRYAN SALGADO"
+                }
+            },
+            "FechaPublicacion": "31/03/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=41225165&BMW.320I.2012"
+        },
+        {
+            "Auto": {
+                "Anno": "2008",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 165000,
+                "Localizacion": "Cartago",
+                "Marca": "BMW",
+                "Motor": "2,000 cc",
+                "Precio": 7000000.0,
+                "Tipo": "BMW 318I",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "7006-2523    8963-5755    7136-4207",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "7006-2523",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "KEVIN MENDEZ"
+                }
+            },
+            "FechaPublicacion": "19/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=28715190&BMW.318I%20.2008"
+        },
+        {
+            "Auto": {
+                "Anno": "2000",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": null,
+                "Localizacion": "Heredia",
+                "Marca": "BMW",
+                "Motor": "2,500 cc",
+                "Precio": 7000000.0,
+                "Tipo": "BMW 323",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "7116-0282",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "7116-0282",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "KEVIN HINES"
+                }
+            },
+            "FechaPublicacion": "21/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=64205833&BMW.323.2000"
+        },
+        {
+            "Auto": {
+                "Anno": "2007",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 107500,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "2,500 cc",
+                "Precio": 7049500.0,
+                "Tipo": "BMW 525 IA",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8513-3864",
+                            "Tipo": "Teléfono"
+                        }
+                    ],
+                    "Nombre": "BRYAN AZOFEIFA"
+                }
+            },
+            "FechaPublicacion": "05/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=3809271&BMW.525%20IA.2007"
+        },
+        {
+            "Auto": {
+                "Anno": "2010",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 135500,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "2,000 cc",
+                "Precio": 7250000.0,
+                "Tipo": "BMW 320I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8872-2598",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8872-2598",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "JORGE RODRIGUEZ"
+                }
+            },
+            "FechaPublicacion": "09/03/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=72546795&BMW.320I.2010"
+        },
+        {
+            "Auto": {
+                "Anno": "2008",
+                "Asientos": null,
+                "Chasis": "3",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 105000,
+                "Localizacion": "Heredia",
+                "Marca": "BMW",
+                "Motor": "3,000 cc",
+                "Precio": 7425000.0,
+                "Tipo": "BMW 128I",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "7270-3910",
+                            "Tipo": "Teléfono"
+                        }
+                    ],
+                    "Nombre": "GARAGE 46"
+                }
+            },
+            "FechaPublicacion": "13/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=4480636&BMW.128I.2008"
+        },
+        {
+            "Auto": {
+                "Anno": "2010",
+                "Asientos": null,
+                "Chasis": "5",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 11000,
+                "Localizacion": "Alajuela",
+                "Marca": "BMW",
+                "Motor": "2,000 cc",
+                "Precio": 7500000.0,
+                "Tipo": "BMW 320I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "6006-0015",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "6006-0015",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "DAVID CHACON"
+                }
+            },
+            "FechaPublicacion": "21/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=25901491&BMW.320I.2010"
+        },
+        {
+            "Auto": {
+                "Anno": "2011",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 174000,
+                "Localizacion": "Cartago",
+                "Marca": "BMW",
+                "Motor": "1,600 cc",
+                "Precio": 7500000.0,
+                "Tipo": "BMW 316I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8483-8641",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8483-8641",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "MANUEL BADILLA MARIN"
+                }
+            },
+            "FechaPublicacion": "03/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=98839812&BMW.316I.2011"
+        },
+        {
+            "Auto": {
+                "Anno": "2007",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 116000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "3,000 cc",
+                "Precio": 7700000.0,
+                "Tipo": "BMW 335I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8593-7419    8340-7361",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8593-7419",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "STEVEN MENA"
+                }
+            },
+            "FechaPublicacion": "21/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=95564492&BMW.335I.2007"
+        },
+        {
+            "Auto": {
+                "Anno": "2009",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 190000,
+                "Localizacion": "Alajuela",
+                "Marca": "BMW",
+                "Motor": "3,000 cc",
+                "Precio": 7875000.0,
+                "Tipo": "BMW 328IX",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8819-6165    8837-6070",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8819-6165",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "GUSTAVO ZUNIGA"
+                }
+            },
+            "FechaPublicacion": "22/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=32132490&BMW.328IX.2009"
+        },
+        {
+            "Auto": {
+                "Anno": "2007",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": null,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "3,000 cc",
+                "Precio": 8655000.0,
+                "Tipo": "BMW 335I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8312-8805    8865-4961",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8312-8805",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "PABLO BARRANTES P"
+                }
+            },
+            "FechaPublicacion": "29/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=99647316&BMW.335I.2007"
+        },
+        {
+            "Auto": {
+                "Anno": "2012",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 103000,
+                "Localizacion": "Cartago",
+                "Marca": "BMW",
+                "Motor": "2,996 cc",
+                "Precio": 9100000.0,
+                "Tipo": "BMW 325I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8343-4242    7023-7797",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8343-4242",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "CARLOS"
+                }
+            },
+            "FechaPublicacion": "03/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=51481320&BMW.325I.2012"
+        },
+        {
+            "Auto": {
+                "Anno": "1979",
+                "Asientos": null,
+                "Chasis": "2",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 120000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "2,300 cc",
+                "Precio": 9195000.0,
+                "Tipo": "BMW 323I",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "2288-1050    8381-5826    8863-0017    8826-5169",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8863-0017",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "GALERÍA DE AUTOS"
+                }
+            },
+            "FechaPublicacion": "15/04/2020",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=7548936&BMW.323I.1979"
+        },
+        {
+            "Auto": {
+                "Anno": "2011",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 117480,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "2,800 cc",
+                "Precio": 9208200.0,
+                "Tipo": "BMW 328I",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "7113-4114",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "7113-4114",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "AUTOMOTORES SUPERIORES"
+                }
+            },
+            "FechaPublicacion": "29/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=3843842&BMW.328I.2011"
+        },
+        {
+            "Auto": {
+                "Anno": "2014",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 118000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "1,600 cc",
+                "Precio": 9501500.0,
+                "Tipo": "BMW 116I SPORT",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "2228-2226    8842-9581    8825-8911",
+                            "Tipo": "Teléfono"
+                        }
+                    ],
+                    "Nombre": "ELITE MOTORS"
+                }
+            },
+            "FechaPublicacion": "30/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=2135523&BMW.116I%20SPORT.2014"
+        },
+        {
+            "Auto": {
+                "Anno": "2013",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 58000,
+                "Localizacion": "Heredia",
+                "Marca": "BMW",
+                "Motor": "2,000 cc",
+                "Precio": 9800000.0,
+                "Tipo": "BMW 320I",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8865-8791    6060-6023",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "6060-6023",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "ALEJANDRO SOLANO"
+                }
+            },
+            "FechaPublicacion": "21/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=49391667&BMW.320I.2013"
+        },
+        {
+            "Auto": {
+                "Anno": "2014",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 104500,
+                "Localizacion": "Heredia",
+                "Marca": "BMW",
+                "Motor": "1,600 cc",
+                "Precio": 10000000.0,
+                "Tipo": "BMW 316I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8341-5653",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8341-5653",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "LUIS HERNANDEZ"
+                }
+            },
+            "FechaPublicacion": "08/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=55721577&BMW.316I.2014"
+        },
+        {
+            "Auto": {
+                "Anno": "2004",
+                "Asientos": null,
+                "Chasis": "2",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 120000,
+                "Localizacion": "Alajuela",
+                "Marca": "BMW",
+                "Motor": "3,200 cc",
+                "Precio": 10000000.0,
+                "Tipo": "BMW M3",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8993-4605",
+                            "Tipo": "Teléfono"
+                        }
+                    ],
+                    "Nombre": "DAVID FUSCALDO"
+                }
+            },
+            "FechaPublicacion": "07/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=91738794&BMW.M3.2004"
+        },
+        {
+            "Auto": {
+                "Anno": "2008",
+                "Asientos": null,
+                "Chasis": "2",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 83689,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "3,000 cc",
+                "Precio": 10000000.0,
+                "Tipo": "BMW 135I",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "6021-7401    6047-1717",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "6021-7401",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "VALEZKA WABE"
+                }
+            },
+            "FechaPublicacion": "24/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=74275413&BMW.135I.2008"
+        },
+        {
+            "Auto": {
+                "Anno": "2008",
+                "Asientos": null,
+                "Chasis": "5",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 160000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "3,000 cc",
+                "Precio": 10500000.0,
+                "Tipo": "BMW 335I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "7290-0979    8993-4727    2240-8082",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "7290-0979",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "VEHÍCULOS DE COSTA RICA"
+                }
+            },
+            "FechaPublicacion": "21/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=2215472&BMW.335I%20.2008"
+        },
+        {
+            "Auto": {
+                "Anno": "2009",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 82000,
+                "Localizacion": "Heredia",
+                "Marca": "BMW",
+                "Motor": "3,000 cc",
+                "Precio": 11000000.0,
+                "Tipo": "BMW 740",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8885-6262    7107-4426",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8885-6262",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "LIZANIAS HERNANDEZ"
+                }
+            },
+            "FechaPublicacion": "07/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=39488035&BMW.740.2009"
+        },
+        {
+            "Auto": {
+                "Anno": "2014",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 76000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "2,000 cc",
+                "Precio": 11000000.0,
+                "Tipo": "BMW 320I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "7102-8726",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "7102-8726",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "JUAN MANUEL CHAVES"
+                }
+            },
+            "FechaPublicacion": "21/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=86186175&BMW.320I.2014"
+        },
+        {
+            "Auto": {
+                "Anno": "2014",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 80000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "2,000 cc",
+                "Precio": 11200000.0,
+                "Tipo": "BMW 320I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8361-6373    8992-3131",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8361-6373",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "IRVING BONILLA"
+                }
+            },
+            "FechaPublicacion": "27/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=79877013&BMW.320I.2014"
+        },
+        {
+            "Auto": {
+                "Anno": "2014",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 133000,
+                "Localizacion": "Alajuela",
+                "Marca": "BMW",
+                "Motor": "1,618 cc",
+                "Precio": 11350000.0,
+                "Tipo": "BMW 316I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "7186-5868",
+                            "Tipo": "Teléfono"
+                        }
+                    ],
+                    "Nombre": "CESAR ABARCA"
+                }
+            },
+            "FechaPublicacion": "13/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=63603254&BMW.316I.2014"
+        },
+        {
+            "Auto": {
+                "Anno": "2011",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": null,
+                "Localizacion": "Heredia",
+                "Marca": "BMW",
+                "Motor": "3,000 cc",
+                "Precio": 11450000.0,
+                "Tipo": "BMW 335",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8814-2510",
+                            "Tipo": "Teléfono"
+                        }
+                    ],
+                    "Nombre": "CRISTIAM SALAS"
+                }
+            },
+            "FechaPublicacion": "11/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=2470821&BMW.335.2011"
+        },
+        {
+            "Auto": {
+                "Anno": "2011",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 110000,
+                "Localizacion": "Cartago",
+                "Marca": "BMW",
+                "Motor": "3,000 cc",
+                "Precio": 11500000.0,
+                "Tipo": "BMW 528I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "6028-8123    8925-8008",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "6028-8123",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "ANTONIO PEREIRA"
+                }
+            },
+            "FechaPublicacion": "14/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=92285689&BMW.528I.2011"
+        },
+        {
+            "Auto": {
+                "Anno": "2013",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 58000,
+                "Localizacion": "Cartago",
+                "Marca": "BMW",
+                "Motor": "1,600 cc",
+                "Precio": 11500000.0,
+                "Tipo": "BMW 316I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8709-7114    8709-7114",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8709-7114",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "LUIS CARBALLO"
+                }
+            },
+            "FechaPublicacion": "30/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=77676185&BMW.316I.2013"
+        },
+        {
+            "Auto": {
+                "Anno": "2008",
+                "Asientos": null,
+                "Chasis": "2",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 84000,
+                "Localizacion": "Heredia",
+                "Marca": "BMW",
+                "Motor": "3,000 cc",
+                "Precio": 11875000.0,
+                "Tipo": "BMW 328I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "7282-7150",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "7282-7150",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "MISAEL VILLALOBOS"
+                }
+            },
+            "FechaPublicacion": "23/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=30748452&BMW.328I.2008"
+        },
+        {
+            "Auto": {
+                "Anno": "2015",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 61500,
+                "Localizacion": "Cartago",
+                "Marca": "BMW",
+                "Motor": "1,600 cc",
+                "Precio": 13500000.0,
+                "Tipo": "BMW 316I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8727-4405",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8727-4405",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "LUIS MORA"
+                }
+            },
+            "FechaPublicacion": "04/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=92583195&BMW.316I.2015"
+        },
+        {
+            "Auto": {
+                "Anno": "2015",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 64500,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "1,600 cc",
+                "Precio": 13907000.0,
+                "Tipo": "BMW 316I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8817-0117    8505-1137",
+                            "Tipo": "Teléfono"
+                        }
+                    ],
+                    "Nombre": "DAKAR MOTORS S.A."
+                }
+            },
+            "FechaPublicacion": "16/03/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=9863184&BMW.316I.2015"
+        },
+        {
+            "Auto": {
+                "Anno": "2014",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 29000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "2,000 cc",
+                "Precio": 14300000.0,
+                "Tipo": "BMW 328I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "7022-9901",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "7022-9901",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "LAURA ANDRADE"
+                }
+            },
+            "FechaPublicacion": "24/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=69260631&BMW.328I.2014"
+        },
+        {
+            "Auto": {
+                "Anno": "2015",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 61500,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "1,600 cc",
+                "Precio": 14325060.0,
+                "Tipo": "BMW 316I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "7113-4114",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "7113-4114",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "AUTOMOTORES SUPERIORES"
+                }
+            },
+            "FechaPublicacion": "12/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=7885663&BMW.316I.2015"
+        },
+        {
+            "Auto": {
+                "Anno": "2014",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 35000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "2,000 cc",
+                "Precio": 14350000.0,
+                "Tipo": "BMW 520I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8383-6979    8364-0080",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8383-6979",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "CRISTIAN VINCENTI"
+                }
+            },
+            "FechaPublicacion": "28/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=54476319&BMW.520I.2014"
+        },
+        {
+            "Auto": {
+                "Anno": "2014",
+                "Asientos": null,
+                "Chasis": "5",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 38000,
+                "Localizacion": "Heredia",
+                "Marca": "BMW",
+                "Motor": "2,000 cc",
+                "Precio": 15500000.0,
+                "Tipo": "BMW 320 GT",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "6020-2903",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "6020-2903",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "ALONSO HERRERA QUESADA"
+                }
+            },
+            "FechaPublicacion": "03/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=21605470&BMW.320%20GT.2014"
+        },
+        {
+            "Auto": {
+                "Anno": "2015",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 60000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "1,600 cc",
+                "Precio": 15600000.0,
+                "Tipo": "BMW 316I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8704-9503",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8704-9503",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "JONATHAN CHACON"
+                }
+            },
+            "FechaPublicacion": "28/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=46101912&BMW.316I.2015"
+        },
+        {
+            "Auto": {
+                "Anno": "2016",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": null,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "2,000 cc",
+                "Precio": 16000000.0,
+                "Tipo": "BMW 328I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8843-4092",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8843-4092",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "EDUARDO FERNANDEZ"
+                }
+            },
+            "FechaPublicacion": "17/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=30465885&BMW.328I.2016"
+        },
+        {
+            "Auto": {
+                "Anno": "2015",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 76000,
+                "Localizacion": "Heredia",
+                "Marca": "BMW",
+                "Motor": "2,000 cc",
+                "Precio": 16500000.0,
+                "Tipo": "BMW 420I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "6028-2061",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "6024-2061",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "DANYEIKEL"
+                }
+            },
+            "FechaPublicacion": "13/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=68361425&BMW.420I%20.2015"
+        },
+        {
+            "Auto": {
+                "Anno": "1976",
+                "Asientos": null,
+                "Chasis": "2",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 65000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "2,000 cc",
+                "Precio": 17777000.0,
+                "Tipo": "BMW 2002",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "2288-1050    8381-5826    8863-0017    8826-5169",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8863-0017",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "GALERÍA DE AUTOS"
+                }
+            },
+            "FechaPublicacion": "16/04/2020",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=9402953&BMW.2002.1976"
+        },
+        {
+            "Auto": {
+                "Anno": "2017",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 25000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "1,500 cc",
+                "Precio": 17850000.0,
+                "Tipo": "BMW 318I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8896-7035    8830-8916",
+                            "Tipo": "Teléfono"
+                        }
+                    ],
+                    "Nombre": "DASS AUTOMOTORES"
+                }
+            },
+            "FechaPublicacion": "25/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=7632226&BMW.318I.2017"
+        },
+        {
+            "Auto": {
+                "Anno": "2017",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 34582,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "1,500 cc",
+                "Precio": 17988229.0,
+                "Tipo": "BMW 318",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8486-1442",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8486-1442",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "BAVARIAN MOTORS CR S.A."
+                }
+            },
+            "FechaPublicacion": "28/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=3485218&BMW.318.2017"
+        },
+        {
+            "Auto": {
+                "Anno": "2017",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 36700,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "1,500 cc",
+                "Precio": 18000000.0,
+                "Tipo": "BMW 318",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8832-2663",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8832-2663",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "RANDALL QUIROS"
+                }
+            },
+            "FechaPublicacion": "19/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=55569481&BMW.318.2017"
+        },
+        {
+            "Auto": {
+                "Anno": "2017",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 73980,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "1,500 cc",
+                "Precio": 18275601.0,
+                "Tipo": "BMW 318",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8486-1442",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8486-1442",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "BAVARIAN MOTORS CR S.A."
+                }
+            },
+            "FechaPublicacion": "13/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=3374200&BMW.318.2017"
+        },
+        {
+            "Auto": {
+                "Anno": "1988",
+                "Asientos": null,
+                "Chasis": "2",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 74000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "3,500 cc",
+                "Precio": 18328700.0,
+                "Tipo": "BMW 635CSI",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "2288-1050    8381-5826    8863-0017    8826-5169",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8863-0017",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "GALERÍA DE AUTOS"
+                }
+            },
+            "FechaPublicacion": "21/09/2019",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=3511332&BMW.635CSI%20.1988"
+        },
+        {
+            "Auto": {
+                "Anno": "2016",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 41000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "2,000 cc",
+                "Precio": 18328700.0,
+                "Tipo": "BMW 420 GRAN COUPE",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8836-8010    2282-3636",
+                            "Tipo": "Teléfono"
+                        }
+                    ],
+                    "Nombre": "RAC MOTORS"
+                }
+            },
+            "FechaPublicacion": "19/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=9019448&BMW.420%20GRAN%20COUPE.2016"
+        },
+        {
+            "Auto": {
+                "Anno": "2016",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 50100,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "2,000 cc",
+                "Precio": 19616000.0,
+                "Tipo": "BMW 420I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "6252-1061    2295-0000    2253-2053",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "6252-1061",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "AUTOSTAR"
+                }
+            },
+            "FechaPublicacion": "27/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=5341275&BMW.420I.2016"
+        },
+        {
+            "Auto": {
+                "Anno": "2014",
+                "Asientos": null,
+                "Chasis": "2",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 76000,
+                "Localizacion": "Heredia",
+                "Marca": "BMW",
+                "Motor": "2,000 cc",
+                "Precio": 19900000.0,
+                "Tipo": "BMW 428I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "2589-0512    8817-0303",
+                            "Tipo": "Teléfono"
+                        }
+                    ],
+                    "Nombre": "AUTOMOTORES CARSOT"
+                }
+            },
+            "FechaPublicacion": "22/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=9034114&BMW.428I.2014"
+        },
+        {
+            "Auto": {
+                "Anno": "2015",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 18000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "2,000 cc",
+                "Precio": 20229000.0,
+                "Tipo": "BMW 420I GRAND COUPE",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "2288-1050    8381-5826    8863-0017    8826-5169",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8863-0017",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "GALERÍA DE AUTOS"
+                }
+            },
+            "FechaPublicacion": "02/12/2020",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=2513989&BMW.420I%20GRAND%20COUPE%20.2015"
+        },
+        {
+            "Auto": {
+                "Anno": "2008",
+                "Asientos": null,
+                "Chasis": "2",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 51500,
+                "Localizacion": "Heredia",
+                "Marca": "BMW",
+                "Motor": "3,000 cc",
+                "Precio": 20500000.0,
+                "Tipo": "BMW 335I",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8829-1388",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8829-1388",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "NORMAN HERRERA"
+                }
+            },
+            "FechaPublicacion": "28/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=34537074&BMW.335I.2008"
+        },
+        {
+            "Auto": {
+                "Anno": "2016",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 28000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "2,000 cc",
+                "Precio": 21393700.0,
+                "Tipo": "BMW 428 GRAN COUPE",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8836-8010    2282-3636",
+                            "Tipo": "Teléfono"
+                        }
+                    ],
+                    "Nombre": "RAC MOTORS"
+                }
+            },
+            "FechaPublicacion": "19/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=9647690&BMW.428%20GRAN%20COUPE.2016"
+        },
+        {
+            "Auto": {
+                "Anno": "2015",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 53000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "3,000 cc",
+                "Precio": 21747736.0,
+                "Tipo": "BMW 535 GT",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8486-1442",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8486-1442",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "BAVARIAN MOTORS CR S.A."
+                }
+            },
+            "FechaPublicacion": "18/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=1993269&BMW.535%20GT.2015"
+        },
+        {
+            "Auto": {
+                "Anno": "2018",
+                "Asientos": null,
+                "Chasis": "5",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 35000,
+                "Localizacion": "Heredia",
+                "Marca": "BMW",
+                "Motor": "2,000 cc",
+                "Precio": 23000000.0,
+                "Tipo": "BMW 330I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8397-1426",
+                            "Tipo": "Teléfono"
+                        }
+                    ],
+                    "Nombre": "KENNEDY GERARDO CHACÓN DURÁN"
+                }
+            },
+            "FechaPublicacion": "13/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=66209911&BMW.330I.2018"
+        },
+        {
+            "Auto": {
+                "Anno": "2016",
+                "Asientos": null,
+                "Chasis": "2",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 13000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "2,000 cc",
+                "Precio": 25746000.0,
+                "Tipo": "BMW 420",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8836-8010    2282-3636",
+                            "Tipo": "Teléfono"
+                        }
+                    ],
+                    "Nombre": "RAC MOTORS"
+                }
+            },
+            "FechaPublicacion": "19/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=3415192&BMW.420.2016"
+        },
+        {
+            "Auto": {
+                "Anno": "2016",
+                "Asientos": null,
+                "Chasis": "5",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 60000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "4,400 cc",
+                "Precio": 27585000.0,
+                "Tipo": "BMW 650I M",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "2296-3044",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8301-7777",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "PZ MOTOR"
+                }
+            },
+            "FechaPublicacion": "10/10/2020",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=7695614&BMW.650I%20M.2016"
+        },
+        {
+            "Auto": {
+                "Anno": "2018",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 52000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "2,000 cc",
+                "Precio": 27585000.0,
+                "Tipo": "BMW 330I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8836-8010    2282-3636",
+                            "Tipo": "Teléfono"
+                        }
+                    ],
+                    "Nombre": "RAC MOTORS"
+                }
+            },
+            "FechaPublicacion": "07/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=3388082&BMW.330I.2018"
+        },
+        {
+            "Auto": {
+                "Anno": "2013",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 40000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "3,000 cc",
+                "Precio": 27585000.0,
+                "Tipo": "BMW 640I",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8352-8598",
+                            "Tipo": "Teléfono"
+                        }
+                    ],
+                    "Nombre": "MARCO ECHEVERRIA"
+                }
+            },
+            "FechaPublicacion": "22/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=62116879&BMW.640I.2013"
+        },
+        {
+            "Auto": {
+                "Anno": "2020",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 9875,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "2,000 cc",
+                "Precio": 31621020.0,
+                "Tipo": "BMW 320",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "8486-1442",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8486-1442",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "BAVARIAN MOTORS CR S.A."
+                }
+            },
+            "FechaPublicacion": "24/05/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=2625199&BMW.320.2020"
+        },
+        {
+            "Auto": {
+                "Anno": "2014",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 49000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "4,400 cc",
+                "Precio": 31876000.0,
+                "Tipo": "BMW M5",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "2288-1050    8381-5826    8863-0017    8826-5169",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8863-0017",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "GALERÍA DE AUTOS"
+                }
+            },
+            "FechaPublicacion": "26/04/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=7369913&BMW.M5%20.2014"
+        },
+        {
+            "Auto": {
+                "Anno": "2015",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 44000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "3,000 cc",
+                "Precio": 38006000.0,
+                "Tipo": "BMW M3 F80",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "2288-1050    8381-5826    8863-0017    8826-5169",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8863-0017",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "GALERÍA DE AUTOS"
+                }
+            },
+            "FechaPublicacion": "09/03/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=6768451&BMW.M3%20F80%20.2015"
+        },
+        {
+            "Auto": {
+                "Anno": "1988",
+                "Asientos": null,
+                "Chasis": "2",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 87000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "3,500 cc",
+                "Precio": 39845000.0,
+                "Tipo": "BMW M6 E24",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "2288-1050    8381-5826    8863-0017    8826-5169",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8863-0017",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "GALERÍA DE AUTOS"
+                }
+            },
+            "FechaPublicacion": "08/03/2021",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=7414856&BMW.M6%20E24%20.1988"
+        },
+        {
+            "Auto": {
+                "Anno": "1973",
+                "Asientos": null,
+                "Chasis": "2",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 32000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "3,000 cc",
+                "Precio": 42297000.0,
+                "Tipo": "BMW 3 0 CS",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "2288-1050    8381-5826    8863-0017    8826-5169",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8863-0017",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "GALERÍA DE AUTOS"
+                }
+            },
+            "FechaPublicacion": "06/05/2019",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=8250718&BMW.3%200%20CS%20.1973"
+        },
+        {
+            "Auto": {
+                "Anno": "1988",
+                "Asientos": null,
+                "Chasis": "2",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 117000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "3,200 cc",
+                "Precio": 45975000.0,
+                "Tipo": "BMW M3 E30",
+                "Transmision": "Manual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "2288-1050    8381-5826    8863-0017    8826-5169",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "8863-0017",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "GALERÍA DE AUTOS"
+                }
+            },
+            "FechaPublicacion": "04/06/2020",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=4735005&BMW.M3%20E30.1988"
+        },
+        {
+            "Auto": {
+                "Anno": "2018",
+                "Asientos": null,
+                "Chasis": "4",
+                "Combustible": "Gasolina",
+                "Estilo": "Sedán",
+                "Kilometros": 28000,
+                "Localizacion": "San José",
+                "Marca": "BMW",
+                "Motor": "3,000 cc",
+                "Precio": 52411500.0,
+                "Tipo": "BMW M4 COMPETITION PACKAGE",
+                "Transmision": "Automática/Dual",
+                "Vendedor": {
+                    "Appellido": null,
+                    "Contacto": [
+                        {
+                            "Dato": "7018-9944    8838-7722",
+                            "Tipo": "Teléfono"
+                        },
+                        {
+                            "Dato": "7018-9944",
+                            "Tipo": "Whatsapp"
+                        }
+                    ],
+                    "Nombre": "AUTO PREMIUM"
+                }
+            },
+            "FechaPublicacion": "06/11/2020",
+            "FechaScraping": "30/05/2021",
+            "Pagina": "www.crautos.com",
+            "Url": "https://crautos.com/autosusados/cardetail.cfm?c=9786777&BMW.M4%20COMPETITION%20PACKAGE.2018"
+        }
+    ]
+}
