@@ -2,6 +2,8 @@ import Util
 import Classes
 #import datetime
 from datetime import datetime
+import SQL
+
 Meses = {
     "Enero"      : 'January'   , 
     "Febrero"    : 'February'  , 
@@ -34,18 +36,23 @@ def scrapPage(auto):
         # Get all links of autos y in the search
         urls = get_all_Links(driver)
         print("Total Urls: "+str(len(urls)))
-        
+
+        timestamp = Util.get_Timestamp()
+        print(F'TIMESTAMP: {timestamp}')
+
         # Do scraping for each url founded
         results = []
         for url in urls:
             driver.get(url)
             Util.staticDelay(2,3)
-            results.append(scrapAuto(auto.Marca,driver))
-        
+            Publicacion : Classes.Publicacion = scrapAuto(auto.Marca,driver,timestamp)
+            results.append(Publicacion.to_JSON())
+            insert_DB(publicacion = Publicacion)
+
     finally:
         driver.quit()
 
-    return results
+    return timestamp#results,timestamp
 #-----------------------------------------------------------------------
 def apply_Filters(auto,driver):
     panel = driver.find_element_by_xpath('//div[@class="row padding-10"]//div[@class = "col-xs-12 col-sm-12 col-md-8 col-md-offset-2 searchform"]')
@@ -258,11 +265,11 @@ def get_all_Links(driver):
         Util.staticDelay(1,2)
     return urls
 #-----------------------------------------------------------------------
-def scrapAuto(Marca,driver):
+def scrapAuto(Marca,driver,timestamp):
     # >>> DATOS PUBLICACION <<<
     publicacion = Classes.Publicacion()
-    publicacion.Pagina         = Classes.PagesEnum.CRAUTOS.value
-    publicacion.FechaScraping  = str(datetime.now().strftime('%d/%m/%Y'))
+    publicacion.Pagina         = Classes.PagesEnum.CRAUTOS.name
+    publicacion.FechaScraping  = timestamp
     publicacion.Url            = driver.current_url
 
     # >>> DATOS AUTO <<<
@@ -292,8 +299,9 @@ def scrapAuto(Marca,driver):
             break
     #print(dateString)
     dateFormatter = "%d de %B del %Y"
-    publicacion.FechaPublicacion  = datetime.strptime(dateString,dateFormatter).strftime('%d/%m/%Y')
+    publicacion.FechaPublicacion  = datetime.strptime(dateString,dateFormatter).strftime('%m/%d/%Y')
     publicacion.Auto.Marca        = Marca
+    publicacion.Auto.Asientos        = -1
     publicacion.Auto.Motor        = data['Cilindrada'] if data['Cilindrada'].strip() != 'ND' else None
     publicacion.Auto.Estilo       = data['Estilo'] if data['Estilo'].strip() != 'ND' else None
     publicacion.Auto.Combustible  = data['Combustible'] if data['Combustible'].strip() != 'ND' else None
@@ -353,17 +361,148 @@ def scrapAuto(Marca,driver):
     #print(dataVendor)
     publicacion.Auto.Vendedor.Nombre   = dataVendor['Nombre']
     contactosType = ['Teléfono','Telefono','Whatsapp']
-    contactos=[]
     for type in contactosType:
         if type in dataVendor:
             contact = Classes.Contacto()
-            contact.Tipo = type
+            contact.Tipo = "TELEFONO"
             contact.Dato = dataVendor[type]
             publicacion.Auto.Vendedor.Contacto.append(contact)
-
-    #print(publicacion.to_JSON())
-    return publicacion.to_JSON()
+            break
+    
+    return publicacion
 #-----------------------------------------------------------------------
+def insert_DB(publicacion:Classes.Publicacion):
+    #------------------------------------------------------------------
+    query  = SQL.query_EXE_insertPublicacion(publicacion=publicacion)
+    print(query)
+    SQL.DBConnection.execute_query(query,state=False)
+
+    query  = SQL.query_IDENT_CURRENT(table="VENDEDOR")
+    result = SQL.DBConnection.execute_query(query,state=True)
+    IdVendedor = result[0][0] 
+    print(f'IdVendedor: {IdVendedor}')
+    SQL.print_Result(result)
+    for contacto in publicacion.Auto.Vendedor.Contacto:
+        #------------------------------------------------------------------
+        query  = SQL.query_EXE_insertContacto(contacto=contacto)
+        #print(query)
+        SQL.DBConnection.execute_query(query,state=False)
+
+        query  = SQL.query_IDENT_CURRENT(table="CONTACTO")
+        result = SQL.DBConnection.execute_query(query,state=True)
+        IdContacto = result[0][0] 
+        print(f'IdContacto: {IdContacto}')
+        SQL.print_Result(result)
+        #------------------------------------------------------------------
+        query  = SQL.query_EXE_insertContactoXVendedor(IdVendedor,IdContacto)
+        #print(query)
+        SQL.DBConnection.execute_query(query,state=False)
+
+        query  = SQL.query_IDENT_CURRENT(table="CONTACTOxVENDEDOR")
+        result = SQL.DBConnection.execute_query(query,state=True)
+        IdContacto = result[0][0] 
+        print(f'IdContactoXIdVendedor: {IdContacto}')
+        SQL.print_Result(result)
+        #------------------------------------------------------------------
+#-----------------------------------------------------------------------
+def createExcelFile(path:str)->str:
+    workbook_name = path + "/Datos.xlsx"
+    Util.createExcel(
+        workbook_name = workbook_name, 
+        title         = 'Resultados Autos'   , 
+        headers       = [
+                            'FechaPublicacion'    ,
+                            'FechaScraping'       ,
+                            'Pagina'              ,
+                            'Url'                 ,
+                            'Anno'                    ,
+                            'Asientos'            ,
+                            'Chasis'              ,
+                            'Combustible'         ,
+                            'Estilo'               ,
+                            'Kilometros'          ,
+                            'Localizacion'        ,
+                            'Marca'               ,
+                            'Motor'                ,
+                            'Precio'              ,
+                            'Tipo'                ,
+                            'Transmision'         ,
+                            'Vendedor Nombre'     ,
+                            'Contacto Dato'       , 
+                            'Contacto Tipo'
+                        ]
+    )
+    return workbook_name
+#-----------------------------------------------------------------------
+def appendRowToExcelFile(workbook_name:str,publicacion:Classes.Publicacion):
+    Util.appendRowToExcel( 
+                    workbook_name  = workbook_name,
+                    row = [
+                        publicacion.FechaPublicacion               ,
+                        publicacion.FechaScraping                  ,
+                        publicacion.Pagina                         ,
+                        publicacion.Url                            ,
+                        publicacion.Auto.Anno                      ,
+                        publicacion.Auto.Asientos                  ,
+                        publicacion.Auto.Chasis                    ,
+                        publicacion.Auto.Combustible               ,
+                        publicacion.Auto.Estilo                    ,
+                        publicacion.Auto.Kilometros                ,
+                        publicacion.Auto.Localizacion              ,
+                        publicacion.Auto.Marca                     ,
+                        publicacion.Auto.Motor                     ,
+                        publicacion.Auto.Precio                    ,
+                        publicacion.Auto.Tipo                      ,
+                        publicacion.Auto.Transmision               ,
+                        publicacion.Auto.Vendedor.Nombre           ,
+                        publicacion.Auto.Vendedor.Contacto[0].Dato , 
+                        publicacion.Auto.Vendedor.Contacto[0].Tipo
+                        
+                    ]
+                )
+#-----------------------------------------------------------------------
+def get_Data_by_timestamp(timestamp:str):  
+    query  = SQL.query_Select_All_By_Timestamp(timestamp=timestamp)
+    
+    result = SQL.DBConnection.execute_query(query,state=True)
+    SQL.print_Result(result) 
+
+    # Create directories
+    path = f'Resultados de busqueda/{timestamp.replace("/","-").replace(":",";")}'
+    Util.create_Directory(path=path)
+    
+    # create excel file
+    workbook_name = createExcelFile(path)
+
+    for row in result:
+        publicacion = Classes.Publicacion()
+        publicacion.FechaPublicacion               = row[0]
+        publicacion.FechaScraping                  = row[1]
+        publicacion.Pagina                         = row[2]
+        publicacion.Url                            = row[3]
+        publicacion.Auto.Anno                      = row[4]
+        publicacion.Auto.Asientos                  = row[5]
+        publicacion.Auto.Chasis                    = row[6]
+        publicacion.Auto.Combustible               = row[7]
+        publicacion.Auto.Estilo                    = row[8]
+        publicacion.Auto.Kilometros                = row[9]
+        publicacion.Auto.Localizacion              = row[10]
+        publicacion.Auto.Marca                     = row[11]
+        publicacion.Auto.Motor                     = row[12]
+        publicacion.Auto.Precio                    = row[13]
+        publicacion.Auto.Tipo                      = row[14]
+        publicacion.Auto.Transmision               = row[15]
+        publicacion.Auto.Vendedor.Nombre           = row[16]
+        contacto = Classes.Contacto()
+        contacto.Dato = row[17]
+        contacto.Tipo = row[18]
+        publicacion.Auto.Vendedor.Contacto.append(contacto)
+        appendRowToExcelFile(
+            workbook_name=workbook_name, 
+            publicacion=publicacion
+            )
+#-----------------------------------------------------------------------
+
 if __name__ == '__main__':
     #auto = Classes.Auto()
     #auto.Marca        = "BMW"
@@ -377,5 +516,6 @@ if __name__ == '__main__':
     #auto.Anno         = ["2000","2020"]
     #auto.Precio       = [0,0]
     #scrapPage(auto)
-    print(str(datetime.datetime.now().strftime('%d/%m/%Y')))
+    timestamp = Util.get_Timestamp()
+    get_Data_by_timestamp('2021-10-24 16:50')
     

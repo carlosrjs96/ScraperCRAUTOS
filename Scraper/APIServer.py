@@ -4,6 +4,7 @@ import CRAutosScraper
 import traceback
 import json
 import Classes
+import Util
 #region Global Methods and Variables
 #-----------------------------------------------------------------------
 app = Flask(__name__)
@@ -57,12 +58,12 @@ def CRAutos():
     
     
     try:
-        json_Result = CRAutosScraper.scrapPage(auto)                        # Scrap Race and return json Track
-        #json_Result = auto
-        #print(json_Result.toString())
+        timestamp = CRAutosScraper.scrapPage(auto)                        # Scrap Race and return json Track
+
     except Exception as err:
         return {"Error": str(err), "Traceback": traceback.format_exc()},400 # Error and TraceBack
-    return jsonify(json_Result)
+    timestamp= Util.get_Timestamp()
+    return {"timestamp":timestamp}
 #-----------------------------------------------------------------------
 #endregion Routes Methods
 

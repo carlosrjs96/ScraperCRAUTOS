@@ -1,9 +1,12 @@
 # Import Libraries
 from selenium import webdriver
-from urllib.parse import urlparse
 import random
 import time
-
+import json
+from openpyxl.workbook import Workbook
+from openpyxl import load_workbook
+import os
+from datetime import datetime
 #-----------------------------------------------------------------------
 def selenium_WebDriver_config():
     # Navigation options
@@ -125,4 +128,51 @@ def getDymanicContentBodyTable(driver, before_XPath, row_Gap, column_Gap):
     
     return table
 #-----------------------------------------------------------------------
-
+def load_Json(path:str) -> json:
+    # Load Json file
+    with open(path, 'r') as j:
+        _json = json.load(j)
+    print(f'Json File: {path} (loaded)') 
+    return _json
+#-----------------------------------------------------------------------
+def createExcel(workbook_name  = 'Datos.xlsx', title = 'Autos', headers = []):
+    #headers       = ['Company','Address','Tel','Web']
+    wb = Workbook()
+    page = wb.active
+    page.title = title
+    page.append(headers) # write the headers to the first line
+    wb.save(filename = workbook_name)
+#-----------------------------------------------------------------------
+def appendRowToExcel( workbook_name  = 'Datos',row = []):
+    # New data to write:
+    #info = [
+    #    empresa.Nombre    ,
+    #    empresa.Direccion ,
+    #    empresa.Localidad ,
+    #    empresa.Provincia ,
+    #    empresa.Telefono  ,
+    #    empresa.Correo    ,
+    #    empresa.Actividad ,
+    #    empresa.SitioWeb  ,
+    #    empresa.Url       
+    #]
+    # Load workbook
+    wb = load_workbook(workbook_name)
+    page = wb.active
+    page.append(row)
+    wb.save(filename=workbook_name)
+#-----------------------------------------------------------------------
+def create_Directory(path):
+    # Create target directory & all intermediate directories if don't exists
+    if not os.path.exists(path):
+        os.makedirs(path)
+        print(f'Directory: {path} (created)')
+    else:       
+        print(f'Directory: {path} (already exists)') 
+#-----------------------------------------------------------------------
+def get_Timestamp() -> str:
+    timestamp = datetime.now()  # current date and time
+    timestamp = datetime.fromtimestamp(timestamp.timestamp()) # convert to datetime
+    timestamp = timestamp.strftime("%m/%d/%Y %H:%M") # convert timestamp to string in dd-mm-yyyy HH:MM:SS
+    return timestamp
+#-----------------------------------------------------------------------

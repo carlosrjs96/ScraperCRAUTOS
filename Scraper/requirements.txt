@@ -6,3 +6,5 @@ flask-restful
 webdriver-manager
 requests
 lxml
+openpyxl
+pyodbc
