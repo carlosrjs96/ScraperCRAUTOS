@@ -8,11 +8,11 @@ class PagesEnum(enum.Enum):
 class Publicacion:
     # Contructor 
     def __init__(self):
-        self.Auto             = Auto()
-        self.Pagina           = None
-        self.FechaPublicacion = None
-        self.FechaScraping    = None  
-        self.Url              = None
+        self.Auto             : Auto = Auto()
+        self.Pagina           : str = None
+        self.FechaPublicacion : str = None
+        self.FechaScraping    : str = None  
+        self.Url              : str = None
 
     # Methods
     def toString(self): #Print Atributtes
@@ -40,19 +40,19 @@ class Publicacion:
 class Auto:
     # Contructor 
     def __init__(self):
-        self.Vendedor     = Vendedor() # Vendedor
-        self.Anno         = None       # int
-        self.Kilometros   = None       # int
-        self.Tipo         = None       # str
-        self.Transmision  = None       # str
-        self.Combustible  = None       # str
-        self.Localizacion = None       # str
-        self.Marca        = None       # str
-        self.Precio       = None       # int
-        self.Motor        = None       # str
-        self.Estilo       = None       # str
-        self.Asientos     = None       # int
-        self.Chasis       = None       # str
+        self.Vendedor     : Vendedor = Vendedor() # Vendedor
+        self.Anno         : str = None       # str
+        self.Kilometros   : int = None       # int
+        self.Tipo         : str = None       # str
+        self.Transmision  : str = None       # str
+        self.Combustible  : str = None       # str
+        self.Localizacion : str = None       # str
+        self.Marca        : str = None       # str
+        self.Precio       : int = None       # int
+        self.Motor        : str = None       # str
+        self.Estilo       : str = None       # str
+        self.Asientos     : int = None       # int
+        self.Chasis       : str = None       # str
         
     # Methods
     def toString(self): #Print Atributtes
@@ -95,9 +95,9 @@ class Auto:
 class Vendedor:
     # Contructor 
     def __init__(self):
-        self.Nombre       = None 
-        self.Appellido    = None 
-        self.Contacto     = [] 
+        self.Nombre    : str = None 
+        self.Appellido : str = None 
+        self.Contacto  : list[Contacto] = [] 
         
     # Methods
     def toString(self): #Print Atributtes
@@ -125,8 +125,8 @@ class Vendedor:
 class Contacto:
     # Contructor 
     def __init__(self):
-        self.Dato = None
-        self.Tipo = None  
+        self.Dato : str = None
+        self.Tipo : str = None  
         
     # Methods
     def toString(self): #Print Atributtes
