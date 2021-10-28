@@ -3,6 +3,7 @@ import Classes
 #import datetime
 from datetime import datetime
 import SQL
+from os import system
 
 Meses = {
     "Enero"      : 'January'   , 
@@ -504,18 +505,28 @@ def get_Data_by_timestamp(timestamp:str):
 #-----------------------------------------------------------------------
 
 if __name__ == '__main__':
-    #auto = Classes.Auto()
-    #auto.Marca        = "BMW"
-    #auto.Tipo         = "318 IS"
-    #auto.Estilo       = "Sedán"
-    #auto.Combustible  = "Gasolina"
+    while True:
+        print(f"\
+        Presiona 1 para obtener los resultados en formato .xlsx.\n\
+        Presiona 2 para ayuda.\n\
+        Presiona 3 para salir.")
+        opcion = int(input("    Ingrese el número de la opción requerida: "))
+        if opcion==1:
+            system("cls")
+            timestamp = input("    Ingrese el timestamp(YYYY-MM-DD hh:mm): ")
+            get_Data_by_timestamp(timestamp)
+            print(f"    Realizado con éxito.")
+        elif opcion==2:
+            system("cls")
+            print(f"\n    AYUDA")
+            print(f"\n    1.La opción 1 requiere ingresar la fecha del Scraper realizado previamente y dichos resultados se verán reflejado en un documento .xlsx")
+            print(f"    2.Para realizar el scraper de los autos se hará meditante la aplicación Postman\n")  
+        elif opcion==3:
+            print(f"    Gracias por utilizar nuestro programa.\n")
+            break
+            
+        elif opcion!=1 and opcion!=2 and opcion!=3:
+            system("cls")
+            print("    No tenemos esa opción\n")
     
-    #auto.Transmision  = "Automática"
-    #auto.Localizacion = "San José"
-    #auto.Chasis       = "4 o más"
-    #auto.Anno         = ["2000","2020"]
-    #auto.Precio       = [0,0]
-    #scrapPage(auto)
-    timestamp = Util.get_Timestamp()
-    get_Data_by_timestamp('2021-10-24 16:50')
     
